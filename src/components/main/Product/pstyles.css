@@ -1,0 +1,46 @@
+.filter-buttons .buttons {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.filter-buttons .buttons button {
+  width: 200px;
+  border-radius: 5px;
+  margin: 10px;
+  justify-self: center;
+}
+.filter-buttons .product-list {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.filter-buttons .product-list .product {
+  padding: 5px;
+  margin: 10px;
+  box-shadow: 0 2px 2px 2px rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  width: 350px;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.filter-buttons .product-list .product img {
+  height: 150px;
+  margin-bottom: 10px;
+}
+.filter-buttons .product-list .product .price {
+  color: #002fff;
+  font-weight: 700;
+}
+.filter-buttons .product-list .product div {
+  display: flex;
+}
+.filter-buttons .product-list .product div .botonProd {
+  width: 40px;
+  height: 40px;
+  margin-left: 10px;
+  margin-right: 10px;
+  border-radius: 100%;
+}/*# sourceMappingURL=pstyles.css.map */

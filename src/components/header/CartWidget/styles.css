@@ -1,0 +1,23 @@
+.cart {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.carrito{
+    background-color: red;
+    border-radius: 100%;
+    padding-left: 7px;
+    padding-right: 7px;
+    color: white;
+    font-weight: 600;
+}
+  
+.cart-icon {
+    width: 30px;
+    height: 30px;
+    background-color: antiquewhite;
+    border-radius: 10%;
+    padding: 3px;
+    margin: 2px;
+}
